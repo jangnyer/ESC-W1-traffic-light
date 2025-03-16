@@ -7,7 +7,7 @@
 [👉 영상 링크 바로가기](https://youtu.be/VpENFWReUGU)
 
 
-# 🚦 ESC-W1-traffic-light 사용 방법
+# 🚦 1. ESC-W1-traffic-light 사용 방법
 
 ## 1️⃣ 프로젝트 개요
 이 프로젝트는 **Arduino와 p5.js**를 이용하여 신호등을 제어하고,  
@@ -86,7 +86,7 @@
 
 
 ---
-# 🚦 2. p5.js 코드 설명
+# 🚦 3. p5.js 코드 설명
 
 ## 🔹 개요
 이 프로젝트의 **p5.js 코드**는 **아두이노(Arduino)** 와 실시간으로 데이터를 주고받으며,  
