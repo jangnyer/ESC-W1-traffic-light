@@ -81,6 +81,7 @@ void handleButton2Press() {
       currentMode = TRAFFIC_LIGHT; // 신호등 모드로 전환
       Serial.print("Mode: Traffic Light\n");
       redBlinkTask.disable(); // 빨간불 깜빡임 Task 비활성화
+      AllLedsOff(); // 모든 LED 끄기
       Serial.print("RL\n"); // 빨간간 LED 꺼짐
       SchAddTask(); // 신호등 Task 추가
     }
