@@ -1,3 +1,12 @@
+# 프로젝트 시연 영상
+
+아래 영상에서 프로젝트의 동작을 확인할 수 있습니다.
+
+[![프로젝트 시연 영상](https://img.youtube.com/vi/VpENFWReUGU/0.jpg)](https://youtu.be/VpENFWReUGU)
+
+[👉 영상 링크 바로가기](https://youtu.be/VpENFWReUGU)
+
+
 # ESC-W1-traffic-light
 
 ![image](https://github.com/user-attachments/assets/59849f39-9fe2-4b11-8119-a3a66598954c)
