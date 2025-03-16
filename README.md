@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/59849f39-9fe2-4b11-8119-a3a66598954c)
 
-회로 연결 정보
+회로 연결 정보\n
 LED 연결
 
 빨간 LED: 11번 핀 → 저항(330Ω) → LED(+) → GND
